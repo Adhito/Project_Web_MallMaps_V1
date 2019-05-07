@@ -22,6 +22,7 @@ export const malls  = [
       floor3rdPic : 'https://s3-ap-southeast-1.amazonaws.com/centralparkjakarta.com/wp-content/uploads/2017/10/01053817/3.png',
       floor4thPic : 'https://s3-ap-southeast-1.amazonaws.com/centralparkjakarta.com/wp-content/uploads/2017/10/01053817/3.png'
 
+
     },
 
     {
@@ -47,6 +48,7 @@ export const malls  = [
       floor3rdPic : 'https://s3-ap-southeast-1.amazonaws.com/centralparkjakarta.com/wp-content/uploads/2017/10/01053817/3.png',
       floor4thPic : 'https://s3-ap-southeast-1.amazonaws.com/centralparkjakarta.com/wp-content/uploads/2017/10/01053817/3.png'
 
+      
     }
 
   ];
