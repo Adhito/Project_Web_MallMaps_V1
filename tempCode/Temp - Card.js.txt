@@ -1,3 +1,6 @@
+
+Version V1 
+
 import React from 'react';
 import './Card.css';
 import nl2br from 'react-newline-to-break';
@@ -67,3 +70,28 @@ const Card = (props) => {
 }
 
 export default Card;
+
+
+
+
+
+import './bootstrap-adhito-v1.css';
+import './bootstrap.min.css';
+
+import './bootstrap-jquery.min.js';
+import './bootstrap.bundle.min.js';
+import './bootstrap-jquery.easing.min.js';
+import './bootstrap-stylish-portfolio.min.js';
+
+
+
+
+
+
+
+
+
+
+
+
+

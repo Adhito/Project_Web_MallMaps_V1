@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import CardList from './CardList';
-import SearchBox from './SearchBox'
-import { malls } from  './dummyData';
-import './App.css';
+import CardList from './JS-CardList';
+import SearchBox from './JS-SearchBox'
+import { malls } from  './JS-dummyData';
+import './CSS-App.css';
 
 
 class App extends Component{

@@ -1,6 +1,6 @@
 import React from 'react';
-import Card from './Card'
-import './CardList.css';
+import Card from './JS-Card'
+import './CSS-CardList.css';
 
 
 const CardList = ({malls}) => {
