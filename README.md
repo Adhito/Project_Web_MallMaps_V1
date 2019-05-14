@@ -8,3 +8,6 @@ An app created with React to show maps of mall
 -
 
 # App depedencies
+-
+-
+-
